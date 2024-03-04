@@ -2,6 +2,8 @@
 materials/Day5/data/Lab3/
 materials/Day4/data/Lab4/
 materials/Day5/data/
+*.tif
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
