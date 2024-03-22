@@ -3,7 +3,7 @@
 
 Developed by Cascade Tuholske, Montana State University  
 
-While specifically developed for MSU students, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. (Kelly Caylor)[https://github.com/kcaylor], and from (An Introduction to Earth and Environmental Data Science)[https://earth-env-data-science.github.io/intro.html], developed by Prof. [Ryan Abernathey](https://github.com/rabernat).
+While specifically developed for MSU students, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. [Kelly Caylor](https://github.com/kcaylor), and from [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html), developed by Prof. [Ryan Abernathey](https://github.com/rabernat).
 
 ## Course Website
 
