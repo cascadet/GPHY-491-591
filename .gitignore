@@ -7,7 +7,7 @@
 /Users/t61d992/Github/GPHY-491-591/labs/keys
 
 # Big files
-/lectures/data/GHS-Pop/*
+/lectures/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
