@@ -4,7 +4,7 @@
 *cache*
 
 # Lab Keys
-labs/keys/*
+/labs/keys/*
 
 # Big files
 /lectures/data/*
