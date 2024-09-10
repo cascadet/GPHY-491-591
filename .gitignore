@@ -6,8 +6,9 @@
 # Lab Keys
 /labs/keys/*
 
-# Big files
-/lectures/data/*
+# Don't push Big files
+#/data/*
+/data_old/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
