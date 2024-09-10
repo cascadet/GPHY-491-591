@@ -5,6 +5,7 @@
 
 # Lab Keys
 /labs/keys/*
+labs/keys/*
 
 # Don't push Big files
 #/data/*
