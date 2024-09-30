@@ -7,7 +7,7 @@
 labs/keys/
 
 # Don't push Big files
-#/data/*
+/data/*
 /data_old/*
 
 # Byte-compiled / optimized / DLL files
